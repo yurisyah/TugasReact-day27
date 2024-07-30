@@ -1,0 +1,24 @@
+.banners {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.banner {
+  background-color: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 5px;
+  padding: 15px;
+  margin: 10px 0;
+  width: 80%;
+  text-align: center;
+}
+
+.banner h2 {
+  margin: 0 0 10px;
+}
+
+.banner p {
+  margin: 0;
+}
